@@ -18,3 +18,10 @@ Reporting Violations
 If you experience or witness any form of harassment or discrimination, please report it immediately to the project maintainers or a trusted member of the community.
 
 By contributing to this project, you agree to abide by this code of conduct.
+
+Fork the repository: Fork the project on GitHub.
+Clone your fork: Clone your forked repository to your local machine.
+Create a new branch: Create a new branch for your changes.   
+Making Changes
+
+Thank you for your contributions!
